@@ -1,0 +1,24 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#object_detected {
+    font-size: 18px;
+}
+.copyrightFooter {
+    position: fixed;
+    color: violet;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    line-height: 2;
+    text-align: center;
+    font-size: 20px;
+}
+canvas {
+    border: 2px dotted pink;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px pink;
+}
